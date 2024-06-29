@@ -1,0 +1,12 @@
+2024-06-26 23:46:27,997 - UDP Server running on localhost:8082
+2024-06-26 23:46:49,842 - Received from ('127.0.0.1', 52752): POST / HTTP/1.1
+Host: 127.0.0.1
+Content-Length: 11
+
+SALAM JANM 
+2024-06-26 23:49:27,427 - UDP Server running on 0.0.0.0:8082
+2024-06-26 23:49:57,662 - Received from ('127.0.0.1', 63844): POST / HTTP/1.1
+Host: 127.0.0.1
+Content-Length: 5
+
+salam

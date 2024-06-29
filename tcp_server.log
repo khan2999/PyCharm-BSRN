@@ -1,0 +1,12 @@
+2024-06-27 14:03:56,882 - 127.0.0.1 - - [27/Jun/2024 14:03:56] "POST / HTTP/1.1" 200 -
+
+2024-06-27 14:03:56,886 - 127.0.0.1 - - [27/Jun/2024 14:03:56] POST request received. Data: HALLO TCP
+
+2024-06-27 14:06:35,906 - 127.0.0.1 - - [27/Jun/2024 14:06:35] "POST / HTTP/1.1" 200 -
+
+2024-06-27 14:06:35,909 - 127.0.0.1 - - [27/Jun/2024 14:06:35] POST request received. Data: hALLO JAN MA JANAN MA 
+
+2024-06-28 22:11:51,522 - 127.0.0.1 - - [28/Jun/2024 22:11:51] "POST / HTTP/1.1" 200 -
+
+2024-06-28 22:11:51,525 - 127.0.0.1 - - [28/Jun/2024 22:11:51] POST request received. Data: hallo my tcp and my name is khkan 
+
