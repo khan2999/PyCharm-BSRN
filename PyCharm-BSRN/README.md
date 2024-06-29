@@ -1,2 +1,0 @@
-# PyCharm-BSRN
-BSRN Projekt 
